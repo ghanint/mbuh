@@ -1,2 +1,2 @@
 # mbuh
-ajari cok
+percobaan
